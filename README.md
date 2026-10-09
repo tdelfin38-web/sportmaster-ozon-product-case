@@ -18,7 +18,8 @@
 | --- | --- |
 | [Исходное задание](docs/ASSIGNMENT.md) | Контекст, границы и ожидаемые результаты тестового задания |
 | [Разбор кейса](docs/CASE_STUDY.md) | От постановки задачи до рекомендации и условий запуска |
-| [Финансовая модель](assets/model/financial_model.xlsx) | Сценарный P&L и выбор схемы исполнения для SKU |
+| [Итоговая финансовая модель](assets/model/final_financial_model.xlsx) | Сценарный P&L и выбор схемы исполнения для SKU |
+| [Итоговая презентация](assets/presentation/final_presentation.pdf) | Защита решения: FBO, FBS, Hybrid, 3PL, интеграция и roadmap |
 | [Метрики и пилот](docs/METRICS_AND_PILOT.md) | Целевая метрика, guardrails, этапы и decision gate |
 | [Интеграционный контур](docs/INTEGRATION_CONTOUR.md) | Роли систем и логика обмена заказами, статусами и возвратами |
 | [Риски](docs/RISKS.md) | Риски модели и действия до масштабирования |
